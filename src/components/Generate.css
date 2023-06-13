@@ -1,0 +1,25 @@
+table
+{
+    border: 5px solid;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+    height: 200px;
+    position: relative;
+    top: 150px;
+    border-collapse:separate; 
+    border-spacing: 0 1em;
+    background-color: rgb(169, 165, 165);
+}
+
+td{
+    border: 2px solid black;
+}
+
+.left{
+    color: red;
+}
+
+.right{
+    color: blue;
+}
